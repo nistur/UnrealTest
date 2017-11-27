@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1B9EF9E4-000B-121A-001A-02C9C8899505}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnrealTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
